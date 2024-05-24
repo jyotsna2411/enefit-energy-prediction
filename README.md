@@ -13,7 +13,8 @@ The project utilizes the following machine learning techniques and algorithms:
 • Ensemble Learning: Using VotingRegressor to combine multiple models for energy consumption predictions.
 • Transformed Target Regression: Leveraging TransformedTargetRegressor for improved prediction accuracy by transforming the target variable.
 
-## Exploratory Data Analysis • Aggregated DataFrame:
+## Exploratory Data Analysis 
+• Aggregated DataFrame:
 • The final DataFrame consists of 2,018,352 rows and 135 columns.
 • It includes features such as county, is_business, product_type, target, is_consumption, and various other engineered features.
 • The DataFrame contains less than 0.1% null values in most columns.
